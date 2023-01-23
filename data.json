@@ -1,0 +1,36 @@
+[
+    {
+        "data": "arbitraire",
+        "date_facturation": "",
+        "hash": "71aff344a1c1eb44431b50bb740aa73f8b7481fe53addd68e9ae7272b9120893",
+        "index": 0,
+        "previous_hash": "Block de debut",
+        "timestamp": "2023-01-23 22:50:56.597749"
+    },
+    {
+        "data": {
+            "nom": "Diallo",
+            "prenom": "Youssouf",
+            "prix": "1000",
+            "produit": "Banane"
+        },
+        "date_facturation": "2023-01-23 22:51:19.767363",
+        "hash": "180be94298ba0053b86bdbd1217ce9271acfd68e75a1afd4b9c823c7492eb389",
+        "index": 1,
+        "previous_hash": "71aff344a1c1eb44431b50bb740aa73f8b7481fe53addd68e9ae7272b9120893",
+        "timestamp": "2023-01-23 22:51:19.767363"
+    },
+    {
+        "data": {
+            "nom": "Pouye",
+            "prenom": "Magou",
+            "prix": "1500",
+            "produit": "Pomme"
+        },
+        "date_facturation": "2023-01-23 22:51:57.803847",
+        "hash": "45f0927dd70e023093b64a613be17f3f64129a635f6f886c7ffe6cc27af429ae",
+        "index": 2,
+        "previous_hash": "180be94298ba0053b86bdbd1217ce9271acfd68e75a1afd4b9c823c7492eb389",
+        "timestamp": "2023-01-23 22:51:57.803847"
+    }
+]
